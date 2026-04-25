@@ -1,0 +1,7 @@
+{
+  "name": "StreetEats",
+  "description": "A web application to discover nearby street food vendors, view their menus, and read reviews. It features different dashboards for users, vendors, and administrators.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
