@@ -38,9 +38,9 @@ StreetEatsProject/
 
 ## ⚙️ Technologies Used
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Node.js / Python (based on your implementation)
-* **Database:** MySQL / MongoDB / Others
+* **Frontend:** HTML, CSS, React, Typescript
+* **Backend:**  Python, Flask
+* **Database:** MySQL 
 * **Version Control:** Git & GitHub
 
 ---
@@ -58,8 +58,9 @@ cd StreetEats
 
 ```bash
 cd backend
-npm install
-npm start
+python -m venv .venv
+.venv/Script/active or source .venv/source/activate
+flask run
 ```
 
 ### 3️⃣ Setup Frontend
@@ -72,11 +73,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your project here*
-
----
 
 ## 🌐 Future Improvements
 
